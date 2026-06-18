@@ -96,4 +96,4 @@ The system helps financial institutions:
 
 ## SHAP Explainability
 
-![SHAP Summary](outputs/shap_summary.png)
+![SHAP Summary](outputs/shap_output.png)
