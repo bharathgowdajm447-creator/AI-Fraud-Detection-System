@@ -1,0 +1,14 @@
+
+Final Model Selected: Weighted XGBoost
+
+Reason:
+Weighted XGBoost achieved the highest ROC-AUC score of 0.957 and strong fraud recall of 82.7%.
+
+Business Recommendation:
+For production use, a threshold of 0.70 is recommended because it provides a strong balance between precision and recall.
+
+Key Business Impact:
+- Improved fraud detection capability
+- Reduced financial risk
+- Better transaction monitoring
+- Explainable fraud intelligence through SHAP
