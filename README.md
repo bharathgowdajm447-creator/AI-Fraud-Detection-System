@@ -89,3 +89,11 @@ The system helps financial institutions:
 - Improve transaction monitoring
 - Support fraud investigation
 
+
+## Feature Importance
+
+![Feature Importance](outputs/feature_importance.png)
+
+## SHAP Explainability
+
+![SHAP Summary](outputs/shap_summary.png)
